@@ -2,7 +2,7 @@
 
 > Happiness is not about being immortal nor having food or rights in one's hand. It’s about having each tiny wish come true, or having something to eat when you are hungry or having someone's love when you need love. ——《up》
 
-&emsp;&emsp;今天是3月20日，考研复习进行三周了，据考研还有278天。
+&emsp;&emsp;今天是3月20日，考研复习进行三周了，距考研还有278天。
 
 &emsp;&emsp;这周的高数主要学习了不定积分的计算、应用，多元函数微分学、二重积分的知识，这一部分考研所占分值较大，学习起来也比较难，感觉整个高数部分学习结束之后应该要重点再复习一下这个部分，学的不是很踏实。
 
