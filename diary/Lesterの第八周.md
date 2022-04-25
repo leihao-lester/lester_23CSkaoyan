@@ -1,16 +1,4 @@
-# Lesterの23CSkaoyan
-> 欢迎大家提出宝贵的复习建议哦，非诚勿扰！
-
-本仓库用于记录23计算机考研的过程<br>
-[Lesterの第一周](./diary/Lesterの第一周.md)<br>
-[Lesterの第二周](./diary/Lesterの第二周.md)<br>
-[Lesterの第三周](./diary/Lesterの第三周.md)<br>
-[Lesterの第四周](./diary/Lesterの第四周.md)<br>
-[Lesterの第五周](./diary/Lesterの第五周.md)<br>
-[Lesterの第六-七周](./diary/Lesterの第六-七周.md)<br>
-[Lesterの第八周](./diary/Lesterの第八周.md)<br>
-
-## Lesterの第八周
+# Lesterの第八周
 
 > "You must know. Surely you must know it was all for you. My affections and wishes have not changed." ——《Pride And Prejudice》 
 
